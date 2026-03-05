@@ -8,11 +8,12 @@
 
 Master **React**, **HTML**, and **Tailwind CSS** through daily 30-90-minute sessions — building real components, committing every day, and landing a Junior Frontend Developer role.
 
+|                      |                                    |
 | -------------------- | ---------------------------------- |
-| **Duration** | March 4 – April 15, 2026 |
-| **Daily Commitment** | 30-90 minutes/day |
-| **Stack** | React, HTML, Tailwind CSS |
-| **Phase 1** | Syntax CheatSheet & JS Foundations |
+| **Duration**         | March 4 – April 15, 2026           |
+| **Daily Commitment** | 30-90 minutes/day                  |
+| **Stack**            | React, HTML, Tailwind CSS          |
+| **Phase 1**          | Syntax CheatSheet & JS Foundations |
 
 ---
 
