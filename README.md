@@ -90,7 +90,6 @@ Code cleanup, performance improvements, and launching DevBoard MVP on Vercel.
 | GitHub commit streak | At least 35 of 42 days                       |
 | Public repos         | 4+ repos with proper READMEs                 |
 | DevBoard             | Live on Vercel                               |
-| LinkedIn posts       | 6 posts about your builds (one per week)     |
 | Tests written        | At least 3 passing tests in DevBoard Project |
 
 ---
